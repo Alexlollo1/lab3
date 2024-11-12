@@ -1,0 +1,106 @@
+body {
+    background-color: aliceblue;
+}
+
+h4{
+    color: darkmagenta;
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    color: blue;
+    font-size: 22px;
+}
+
+h2{
+    color: brown;
+    font-size: 30px;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+li{
+    color: rgb(190, 190, 4);
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.grey{
+    color: grey;
+    font-size: small ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.darkgreen{
+    color: rgb(2, 136, 2);
+}
+
+.plum{
+    color: rgb(219, 132, 219);
+}
+
+.times{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.b-orange{
+    background-color: orange;
+}
+
+.b-darkorange{
+    background-color: rgb(255, 136, 0);
+}
+
+.b-orangered{
+    background-color: orangered;
+}
+
+.b-goldenrod{
+    background-color: rgb(252, 199, 23);
+}
+
+.b-darkyellow{
+    background-color: rgba(226, 226, 0, 0.774);
+}
+
+.b-yellow{
+    background-color: yellow;
+}
+
+.b-yellowgreen{
+    background-color: rgb(201, 221, 19);
+}
+
+.b-green{
+    background-color: rgb(122, 230, 0);
+}
+
+.b-aqua{
+    background-color: aqua;
+}
+
+.b-lightblue{
+    background-color: cornflowerblue;
+}
+
+.b-blue{
+    background-color: blue;
+}
+
+.b-blueviolet{
+    background-color: rgb(170, 113, 224);
+}
+
+.b-violet{
+    background-color: blueviolet;
+}
